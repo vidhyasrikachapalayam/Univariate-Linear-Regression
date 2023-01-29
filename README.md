@@ -54,6 +54,8 @@ plt.plot(X,Y_pred,color="purple")
 
 plt.show()
 
+## Input:
+![input.png](./input.jpg)
 
 
 
