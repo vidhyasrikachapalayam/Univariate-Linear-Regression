@@ -34,9 +34,9 @@ num,den=0,0
 
 for i in range(len(X)):
 
-   num+=(X[i]-Xmean)*(Y[i]-Ymean)
+     num+=(X[i]-Xmean)*(Y[i]-Ymean)
 
-   den+=(X[i]-Xmean)**2
+     den+=(X[i]-Xmean)**2
 
 m=num/den
 
