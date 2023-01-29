@@ -54,9 +54,8 @@ plt.plot(X,Y_pred,color="purple")
 
 plt.show()
 
-## Input:
 
-![input](https://user-images.githubusercontent.com/119477817/215306061-b22e26f2-726c-43d7-a618-b1caa4069bb1.jpg)
+
 
 
 
