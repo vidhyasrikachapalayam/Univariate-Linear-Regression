@@ -55,13 +55,15 @@ plt.plot(X,Y_pred,color="purple")
 plt.show()
 
 ## Input:
-![input.png](./input.jpg)
+
+![input](https://user-images.githubusercontent.com/119477817/215306061-b22e26f2-726c-43d7-a618-b1caa4069bb1.jpg)
 
 
 
 
 ## Output:
-![univariate.png](./univariate.png)
+![univariate](https://user-images.githubusercontent.com/119477817/215306070-6a78ef92-81fb-4bd6-9eae-2dc6aa49eba9.png)
+
 
 
 ## Result
